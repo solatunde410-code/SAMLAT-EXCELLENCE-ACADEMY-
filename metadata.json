@@ -1,0 +1,6 @@
+{
+  "name": "SAMLAT Excellence Academy",
+  "description": "A modern, responsive school portfolio and admissions website for SAMLAT Excellence Academy in Nigeria, featuring comprehensive academic offerings, admissions workflow, dynamic WhatsApp enquiry engine, event calendars, and school life gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
